@@ -1,6 +1,6 @@
 # Week 4: Neural Network (MLP) Emotion Classification on RAVDESS and My Voice
 
-**Name:** Benjamin Nichiporik | **Student ID:** [ADD] | **GitHub:** Fallenfour-png | **Repository:** https://github.com/Fallenfour-png/Week4-NeuralNetworks/tree/Ben_Assignment_4 | **My recordings:** [ADD ONEDRIVE LINK]
+**Name:** Benjamin Nichiporik | **Student ID:** [ADD] | **GitHub:** Fallenfour-png | **Repository:** https://github.com/Fallenfour-png/Week4-NeuralNetworks/tree/Ben_Assignment_4
 
 ## 1. Process
 
@@ -56,6 +56,6 @@ With `batch_size=256` and `max_iter=1000`, training stopped when the loss conver
 ## References
 
 1. Livingstone, S. R., & Russo, F. A. (2018). The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS). *PLoS ONE, 13*(5), e0196391. https://zenodo.org/record/1188976
-2. Nichiporik, B. (2026). Actor 25 voice recordings (8 clips, RAVDESS naming). OneDrive: [ADD LINK].
+2. Nichiporik, B. (2026). Actor 25 voice recordings (8 clips, RAVDESS naming), recorded for Week 2.
 3. IAT-ExploringAI. Week4-NeuralNetworks tutorial notebook. https://github.com/IAT-ExploringAI-2024/Week4-NeuralNetworks
 4. Pedregosa, F., et al. (2011). Scikit-learn: Machine learning in Python. *JMLR, 12*, 2825–2830; McFee, B., et al. librosa. https://librosa.org
