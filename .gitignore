@@ -1,0 +1,15 @@
+.idea/
+.ipynb_checkpoints/
+Audio Data/
+My Voice Data/
+*.wav
+
+# Kept local only
+report/
+featuresRavdess.csv
+emotionsRavdess.csv
+
+# Deliverables (committed on Ben_Assignment_4, not on main)
+Week4_Report.md
+Week4_Report.pdf
+results/

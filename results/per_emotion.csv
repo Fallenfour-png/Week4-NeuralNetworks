@@ -1,0 +1,9 @@
+,RAVDESS recall (%),RAVDESS precision (%),My voice correct,Times predicted on my voice
+neutral,59.1,72.2,0,0
+calm,80.4,77.1,1,1
+happy,62.5,58.8,0,1
+sad,82.5,68.8,0,0
+angry,75.6,79.5,0,0
+fearful,69.4,73.5,1,6
+disgust,80.0,61.5,0,0
+surprised,51.2,75.0,0,0

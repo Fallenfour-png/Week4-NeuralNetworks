@@ -1,0 +1,9 @@
+True emotion,Predicted,Correct,Confidence in prediction (%),Probability of true emotion (%)
+neutral,happy,False,55.6,0.0
+calm,calm,True,100.0,100.0
+happy,fearful,False,100.0,0.0
+sad,fearful,False,100.0,0.0
+angry,fearful,False,100.0,0.0
+fearful,fearful,True,100.0,100.0
+disgust,fearful,False,98.5,0.0
+surprised,fearful,False,100.0,0.0

@@ -1,0 +1,5 @@
+,RAVDESS test set,My voice
+Accuracy,70.83,25.0
+Precision (macro),70.8,14.58
+Recall (macro),70.1,25.0
+F1 (macro),69.84,16.07
