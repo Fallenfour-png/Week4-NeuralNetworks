@@ -24,7 +24,8 @@ With `batch_size=256` and `max_iter=1000`, training stopped when the loss conver
 | Score | RAVDESS test set (288 clips) | My voice (8 clips, scored separately) |
 |---|---|---|
 | Accuracy | **70.8%** | **25.0%** (2/8) |
-| Precision / Recall (macro) | 70.8% / 70.1% | 14.6% / 25.0% |
+| Precision (macro) | 70.8% | 14.6% |
+| Recall (macro) | 70.1% | 25.0% |
 | F1 (macro) | 69.8% | 16.1% |
 | 10-fold CV accuracy (training set) | 65.6% ± 3.2% | – |
 
